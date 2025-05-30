@@ -1,0 +1,1 @@
+# Bayesian-modelling-of-football-outcomes-using-the-Skellam-s-distribution-for-the-goal-difference
